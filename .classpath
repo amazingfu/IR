@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/lucene-highlighter-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/lucene-queries-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/workspace/IR/libs/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/ws5_30/IR/libs/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/ws5_30/IR/libs/ansj_seg-3.7.5-all-in-one.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/ws5_30/IR/libs/jcseg-analyzer-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/迅雷下载/eclipse-jee-mars-1-win32-x86_64/ws5_30/IR/libs/jcseg-core-1.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
